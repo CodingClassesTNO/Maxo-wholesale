@@ -1,5 +1,5 @@
-# Maxo-wholesale
-## Buy items for reasonable price
+Maxo-wholesale
+Buy items for reasonable price
 
 Welcome to **Maxo Wholesale**
 
