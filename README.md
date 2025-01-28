@@ -16,3 +16,19 @@ Welcome to **Maxo Wholesale**
 - **Dedicated customer support**
 
 ## Website: [Visit site](https://codingclassestno.github.io/Maxo-wholesale/)
+
+## Screenshots:
+
+![image](https://github.com/user-attachments/assets/27ee1722-09bd-4734-9a7b-7004be959a9f)
+
+![image](https://github.com/user-attachments/assets/b428a89d-dc67-4eeb-ba65-14e32a84c68a)
+
+## Team members and our collaborators
+- Ahmed
+- Kavya
+- Khujasta
+- Kowsalya
+- Fahim
+- Rehman
+- Suha
+- Yosan
